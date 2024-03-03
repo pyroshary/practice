@@ -1,0 +1,1 @@
+console.log (`doctor israr ahmed once said,"Dil agr sakht hogai ho to unko narm krne ki dawa Quran ha" `)
